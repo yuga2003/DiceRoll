@@ -4,7 +4,7 @@ Welcome to the Dice Roll Game! Have fun rolling virtual dice and experiencing th
 
 ## Play Online
 
-You can play the game online by visiting the [Dice Roll Game](https://your-live-link.com).
+You can play the game online by visiting the https://yuga2003.github.io/DiceRoll/
 
 ## How to Play Locally
 
